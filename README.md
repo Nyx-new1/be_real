@@ -65,9 +65,10 @@
   <a href="mailto:thomasmaketa89@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
+  <a href="C:\Users\THOMAS\Desktop\45dreams\TEMPLATES\mi_portfolioVI\index.html">my_portifolio</a>
 </p>
 ## ✨ Mission
-> Building scalable systems that solve real-world problems and continuously growing as a software engineer.
+Building scalable systems that solve real-world problems and continuously growing as a system developer.
 <p align="center">
   ⭐ Thanks for visiting my profile ⭐
 </p>
