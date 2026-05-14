@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=ffffff&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=elnyxvi&label=Profile%20views&color=ffffff&style=flat" alt="profile views" />
 </p>
 
 ### 🧑‍💻 About Me
@@ -45,16 +45,13 @@
   <a href="mailto:thomasmaketa89@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+255614470672">
-    <img src="https://img.shields.io/badge/Call%20Me-%2B255%20614%20470%20672-25D366?style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/thomas-maketa-0b19493a2?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/elnyxvi?igsh=YmdvMGh5YndnN2R5" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://wa.me/255614470672" target="_blank">
+  <a href="https://wa.me/qr/XCLDED7LNJXWF1" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
@@ -76,5 +73,5 @@
 
 
 <p align="center">
-  <i>"Empowering Digital Solutions — One line of code at a time."</i>
+  <i>"Empowering Digital Solutions, One line of code at a time."</i>
 </p>
